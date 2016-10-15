@@ -1,1 +1,65 @@
-/* Empty. Add your own CSS if you like */
+*{
+  
+}
+#ultimos{
+     
+     
+}
+#acercade{
+	 background: linear-gradient(to bottom, rgba(235,233,249,1) 0%, rgba(216,209,239,1) 49%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=0 );
+ border-radius:10px;
+  box-shadow: 10px 10px 5px #888888;
+}
+#instruc{
+ background: linear-gradient(to bottom, rgba(235,233,249,1) 0%, rgba(216,209,239,1) 49%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=0 );
+ border-radius:10px;
+  box-shadow: 10px 10px 5px #888888;
+
+}
+h2{
+	font-weight: bold; 
+    font-style: italic;
+ 
+
+}
+input[type=text] {
+    border: 2px solid blue;
+    border-radius: 4px;
+    width:262px;}
+h3{
+	font-family: Arial;
+	font-size:20px;
+	font-weight: bold; 
+    font-style: italic;
+ 
+}
+#brow{
+	color: blue;
+ width:70%;
+ align:center; 
+
+}
+#frmlog{
+   width:70%;
+   
+}
+.button-positive {
+width:20%;
+}
+
+
+#log{
+background: linear-gradient(to bottom, rgba(235,233,249,1) 0%, rgba(216,209,239,1) 49%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=0 );
+border-radius:10px;
+  box-shadow: 10px 10px 5px #888888;
+  height:200px; 	
+}
+#preg{
+	height:270px;   
+background: linear-gradient(to bottom, rgba(235,233,249,1) 0%, rgba(216,209,239,1) 49%, rgba(216,208,239,1) 50%, rgba(206,199,236,1) 51%, rgba(193,191,234,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ebe9f9', endColorstr='#c1bfea', GradientType=0 );
+ border-radius:10px;
+  box-shadow: 10px 10px 5px #888888;}
